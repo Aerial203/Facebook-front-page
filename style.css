@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #e9e9e9;
+}
+
+/* First Container */
+.brand {
+  text-decoration: none;
+  font-weight: bold;
+  color: #fff;
+  font-size: 3rem;
+  font-family: inherit;
+  margin-left: 15rem;
+}
+
+.top-container {
+  margin: 0;
+  background-color: #3b5998;
+  color: #fff;
+  position: relative;
+  height: 120px;
+}
+
+.info {
+  display: inline-block;
+  transform: translate(25rem, -0.5rem);
+  position: static;
+  width: 445px;
+}
+
+li {
+  display: inline-block;
+}
+
+.btn {
+  background-color: #4267b2;
+  border: 0;
+}
+
+.forgot-Password {
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  font-weight: lighter;
+  font-size: 10px;
+  display: block;
+  padding-top: 5%;
+}
+
+.email, .btn {
+  transform: translateY(-24px);
+}
+
+.same-padding {
+  padding: 0 2% 3%;
+}
+
+/* Left side container */
+.left-side-container {
+  display: inline-block;
+  width: 50%;
+}
+
+.inside {
+  width: 60%;
+  margin-left: 150px;
+  transform: translateY(-45px);
+}
+
+.description {
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+/* Right Side Container */
+.right-side-container {
+  display: inline-block;
+  margin-top: 2%;
+}
+
+.size {
+  width: 21rem;
+  height: 40px;
+  margin: 7px 0 7px;
+  display: block;
+}
+
+.celebration {
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.btn1 {
+  display: block;
+  background-color: green;
+  width: 10rem;
+  height: 35px;
+  color: #fff;
+  margin-top: 0.5rem;
+  border: 0;
+}
